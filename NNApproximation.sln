@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NNApproximation", "Irishka\NNApproximation.csproj", "{889CA4E6-9C0B-4FDE-BAF2-1041AD3CB8CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NNApproximation", "NNApproximation\NNApproximation.csproj", "{22AF5DE7-0A99-4023-8CD4-B61D36AE543D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{889CA4E6-9C0B-4FDE-BAF2-1041AD3CB8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{889CA4E6-9C0B-4FDE-BAF2-1041AD3CB8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{889CA4E6-9C0B-4FDE-BAF2-1041AD3CB8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{889CA4E6-9C0B-4FDE-BAF2-1041AD3CB8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AF5DE7-0A99-4023-8CD4-B61D36AE543D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AF5DE7-0A99-4023-8CD4-B61D36AE543D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AF5DE7-0A99-4023-8CD4-B61D36AE543D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AF5DE7-0A99-4023-8CD4-B61D36AE543D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {49B305C8-FAEA-4F6D-A565-A242C1788EA7}
+		SolutionGuid = {06CC5C45-F128-44D6-933A-51EF0F61DFFA}
 	EndGlobalSection
 EndGlobal
